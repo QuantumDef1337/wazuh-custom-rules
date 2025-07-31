@@ -2,7 +2,7 @@
 
   <rule id="100705" level="3">
     <decoded_as>cisco-custom</decoded_as>
-    <description>Cisco Meraki messages grouped.</description>
+    <description>Cisco Meraki message grouped.</description>
   </rule>
 
 <rule id="100706" level="5">
